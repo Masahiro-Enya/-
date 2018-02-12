@@ -1,3 +1,4 @@
 #!/bin/sh
 echo hallo world
+echo hallo world 2
 exit 0
